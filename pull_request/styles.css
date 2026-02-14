@@ -49,3 +49,19 @@ footer {
 .barra-navegacion a:hover {
     color: #0077cc;
 }
+
+.btn-inicio {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.btn-inicio:hover {
+    background-color: #005fa3;
+}
